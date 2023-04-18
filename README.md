@@ -67,7 +67,7 @@ Further improvement is possible with transfer learning or with parameter tuning
 
 
 ## Acknowledgements
-- This project was a part of Advanced Classification Assignment by Bangalore IIITB and Liverpool John Morris University
+- This project was a part of 'Melanoma Detection using CNN' assignment by Bangalore IIITB and Liverpool John Morris University
 
 ## Contact
 Created by [Chirag Navadia](https://www.linkedin.com/in/cnavadia/) - feel free to contact me!
