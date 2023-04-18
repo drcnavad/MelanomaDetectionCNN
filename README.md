@@ -7,7 +7,6 @@ Melanoma is the deadliest form of skin cancer. The diagnostic procedure for mela
 * [Dataset](#dataset)
 * [CNN Architecture](#cnn-architecture)
 * [Final Model](#final-model)
-* [References](#references)
 * [Acknowledgements](#acknowledgements)
 
 
@@ -66,10 +65,6 @@ Sequential Model using Tensorflow
 Model Accuracy on Validation data at 20 epochs: 84.02% 
 Further improvement is possible with transfer learning or with parameter tuning
 
-
-# References
-
-Melanoma Skin Cancer from https://www.cancer.org/cancer/melanoma-skin-cancer/about/what-is-melanoma.html
 
 ## Acknowledgements
 - This project was a part of Advanced Classification Assignment by Bangalore IIITB and Liverpool John Morris University
